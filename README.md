@@ -1,20 +1,3 @@
-# Frontend Mentor - Audiophile e-commerce website solution
-
-This is a solution to the [Audiophile e-commerce website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/audiophile-ecommerce-website-C8cuSd_wx). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview](#overview)
-- [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#built-with)
-- [What I learned](#what-i-learned)
-- [Continued development](#continued-development)
-- [Author](#author)
-
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -35,22 +18,9 @@ Users should be able to:
 
 ![](./preview.jpg)
 
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/audiophile-ecommerce-website-built-w-react-vite-andtailwind-ohaxbod-QE)
-- [Live Site URL](https://audiophile-seangray-dev.vercel.app/)
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [TailWind CSS](https://tailwindcss.com/) - CSS Framework
-- [Framer Motion](https://www.framer.com/motion/) - Motion Library
-- [React Hook Forms](https://react-hook-form.com/) - Form Validation
 
 ### What I learned
 
@@ -62,6 +32,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [seangraydev.com](https://www.seangraydev.com)
-- Frontend Mentor - [@seangray-dev](https://www.frontendmentor.io/profile/seangray_dev)
-- Twitter - [@seangray_dev](https://www.twitter.com/yourusername)
+
