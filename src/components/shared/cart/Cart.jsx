@@ -9,6 +9,7 @@ import {
 } from '../../../redux/cartSlice';
 
 function Cart({ cartItemCount, setCartItemCount }) {
+
   const [cartItems, setCartItems] = useState([]);
   const dispatch = useDispatch();
 
@@ -90,6 +91,7 @@ function Cart({ cartItemCount, setCartItemCount }) {
       pathname: '/checkout',
       state: { cartItems },
     });
+    
   };
 
   const total = cartItems.reduce(
@@ -171,7 +173,8 @@ function Cart({ cartItemCount, setCartItemCount }) {
                 <span className='text-h6'>${total.toFixed(2)}</span>
               </div>
               <div className='mb-8'>
-                <ButtonCheckout onClick={handleCheckout}></ButtonCheckout>
+              <ButtonCheckout onClick={handleCheckout}></ButtonCheckout>
+
               </div>
             </div>
           ) : (
